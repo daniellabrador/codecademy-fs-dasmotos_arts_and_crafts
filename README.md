@@ -35,7 +35,7 @@ The rest of the page’s styling (font sizes, colors, etc.) is outlined in the f
 
 ## Setup
 
-Any standard computer browser can run this site as long as it can read HTML 5 and CSS 3. To view the site online, click this [link](https://daniellabrador.github.io/codecademy-dasmotos_arts_and_crafts/).
+Any standard computer browser can run this site as long as it can read HTML 5 and CSS 3. To view the site online, click this [link](https://daniellabrador.github.io/codecademy-fs-dasmotos_arts_and_crafts/).
 
 ## Sources
 
